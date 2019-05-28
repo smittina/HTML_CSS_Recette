@@ -1,0 +1,12 @@
+Réflexions TP Recette de cuisine
+
+PARTIE 1
+
+en HTML => aucune mise en page, tout est collé. On a perdu les indentations
+	=> C'est parce qu'il y a aucune balises HTML dans le fichier HTML => aucune description et mise en page de contenu
+
+PARTIE 2
+
+8pixels autour => absence de marge ? => rajout d'une marge devrait rectifier le problème
+
+Pourquoi centré ? => margin : auto qui permet de centrer les blocs ?
